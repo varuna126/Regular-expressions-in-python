@@ -1,3 +1,7 @@
+# Author: Varuna Dharmadasa
+# Date: Thursday 22 November 2018
+
+
 import re
 
 names_file = open("names.txt", encoding="utf-8")
